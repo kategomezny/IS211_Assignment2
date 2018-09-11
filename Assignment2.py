@@ -1,3 +1,8 @@
+#!/usr/bin*//env python
+# -*- coding: utf-8 -
+"""Users enter ID number to print out user's info and logges errors"""
+
+
 import urllib2
 import datetime
 import logging
